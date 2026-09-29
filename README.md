@@ -2,7 +2,7 @@
 
 InsightMate AI is an agentic data analyst chatbot that lets users upload CSV datasets and ask questions in natural language.
 
-The application uses an LLM through the Groq API to route user questions to the correct analysis tool, then runs actual data operations using Pandas, DuckDB, and Plotly. It is designed as a practical AI/data product rather than a notebook-only ML project.
+The application uses an LLM through the Groq API to route user questions to the correct analysis tool, then runs actual data operations using Pandas, DuckDB, and Plotly.
 
 ## Features
 
