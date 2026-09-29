@@ -1,0 +1,13 @@
+order_id,date,region,category,product,quantity,unit_price,revenue,customer_age,returned
+1,2025-01-04,Dublin,Electronics,Headphones,2,45,90,24,No
+2,2025-01-06,Cork,Clothing,Jacket,1,80,80,31,No
+3,2025-01-09,Galway,Home,Chair,2,55,110,45,Yes
+4,2025-02-02,Dublin,Electronics,Keyboard,3,35,105,28,No
+5,2025-02-14,Limerick,Clothing,Shoes,1,70,70,22,No
+6,2025-02-18,Dublin,Home,Desk,1,180,180,39,No
+7,2025-03-03,Cork,Electronics,Mouse,4,20,80,26,Yes
+8,2025-03-07,Galway,Clothing,T-Shirt,5,18,90,20,No
+9,2025-03-11,Dublin,Electronics,Monitor,1,220,220,34,No
+10,2025-03-21,Limerick,Home,Lamp,2,30,60,29,No
+11,2025-04-05,Cork,Home,Sofa,1,450,450,52,Yes
+12,2025-04-08,Dublin,Clothing,Hoodie,2,40,80,23,No
